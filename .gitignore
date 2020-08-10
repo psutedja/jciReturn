@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+JCIReader_old.R
+dailyturnover.R
+JCIReader_old2.R
+jciReaderTables.Rmd
+LQ45Reader.R
+./rda/JCI_1983_extended.csv
+./rda/jci average daily turnover.csv
